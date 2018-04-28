@@ -5,3 +5,7 @@ This is an application that lets you see who you're most like from a predetermin
 * Open up terminal, or gitbash and run the command "node server.js". This will let you use PORT 8080 to run the app
 * Then go to "localhost:8080" in your browser.
 * Take the survey and see your results.
+
+Alternatively, you can go to the following link to use the app:
+
+https://agile-cliffs-41120.herokuapp.com/
